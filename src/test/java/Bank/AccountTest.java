@@ -9,7 +9,7 @@ import org.junit.Test;
 public class AccountTest {
 
 	Account acc;
-	//safasdfsdf
+	//safasdfsdfasd
 	@Test
 	public void testGetBalance() {
 		// newly created default account has balance of 0.0
